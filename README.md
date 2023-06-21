@@ -10,13 +10,13 @@
 <h3 align="center">10. Proficient in ML deployment on Flask. </h3>
 <h3 align="center">11. Skilled in dataset preparation for detection and segmentation problems. </h3>
 <h3 align="center">12. Experienced in GCP and Azure VM management tasks and cloud administration.</h3>
-  <h3 align="center"> 13. Developed APIs using Flask and AWS server (Lambda function, API Gateway, S3 bucket). </h3>
-  <h3 align="center"> 14. Expert in developing POCs in NLP and computer vision with thorough documentation.</h3>
-  <h3 align="center">  15. Proficient in GIT administration for various projects. </h3>
-  <h3 align="center">  16. Experienced in manual testing and automation testing using Python, including unit tests. </h3>
-  <h3 align="center">  17. Skilled in Jenkins setup and configuration for automation testing and deployment on stage and production servers. </h3>
-  <h3 align="center">  18. Proven track record in delivering high-quality computer vision solutions and managing complex projects. </h3>
-  <h3 align="center">  19. Open to new opportunities in developing cutting-edge computer vision applications and contributing to project success. These key points highlight your expertise, skills, and experience in computer vision, machine learning, deep learning, server deployment, NLP, database management, testing, and project management. They provide a comprehensive overview of your technical capabilities and project contributions, showcasing your value as a frontend developer.</h3>
+<h3 align="center"> 13. Developed APIs using Flask and AWS server (Lambda function, API Gateway, S3 bucket). </h3>
+<h3 align="center"> 14. Expert in developing POCs in NLP and computer vision with thorough documentation.</h3>
+<h3 align="center">  15. Proficient in GIT administration for various projects. </h3>
+<h3 align="center">  16. Experienced in manual testing and automation testing using Python, including unit tests. </h3>
+<h3 align="center">  17. Skilled in Jenkins setup and configuration for automation testing and deployment on stage and production servers. </h3>
+<h3 align="center">  18. Proven track record in delivering high-quality computer vision solutions and managing complex projects. </h3>
+<h3 align="center">  19. Open to new opportunities in developing cutting-edge computer vision applications and contributing to project success. These key points highlight your expertise, skills, and experience in computer vision, machine learning, deep learning, server deployment, NLP, database management, testing, and project management. They provide a comprehensive overview of your technical capabilities and project contributions, showcasing your value as a frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rampyyadav&label=Profile%20views&color=0e75b6&style=flat" alt="rampyyadav" /> </p>
 
